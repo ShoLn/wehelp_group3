@@ -2,6 +2,8 @@
 
 ## 專案目標：建立天氣 web application
 
+[天氣預報網站](https://sholn.github.io/wehelp_group3/html/indexV1.html#)
+
 透過串接氣象局開放資料，將地點、氣溫、天氣狀態、日期時間以及降雨機率顯示在畫面上，另外增設側邊欄讓使用者可以點選其他地區；當畫面縮小至手機螢幕時，側欄以箭頭標籤顯示。
 
 ### 專案分工：
@@ -68,4 +70,4 @@ Demo:
 
 ---
 
-[天氣預報網站](https://sholn.github.io/wehelp_group3/html/index.html)
+[天氣預報網站](https://sholn.github.io/wehelp_group3/html/indexV1.html#)
